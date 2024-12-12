@@ -70,7 +70,7 @@ def test():
     print(f'version: {MdApi.GetApiVersion()}')
 
     settings = {
-        'address': 'tcp://115.238.106.252:41313',
+        'address': 'tcp://39.170.27.187:42313',
         'broker_id': '8050',
         'user_id': '',
         'password': '',

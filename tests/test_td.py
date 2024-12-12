@@ -148,7 +148,7 @@ def test():
     print('test TdApi...')
     print(f'version: {TdApi.GetApiVersion()}')
     settings = {
-        'address': 'tcp://115.238.106.252:41305',
+        'address': 'tcp://39.170.27.187:42305',
         'broker_id': '8050',
         'user_id': os.environ['SOPT_USER_ID'],
         'password': os.environ['SOPT_PASSWORD'],
